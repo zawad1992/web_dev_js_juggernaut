@@ -16,7 +16,7 @@
  * <head>
  *   <title>Flash Message Example</title>
  *   <!-- Add your CSS link here -->
- *   <script src="path_to/flashMessage.js"></script>
+ *   <script src="path_to/jquery-toggle-class.js"></script>
  * </head>
  * <body>
  *   <!-- Flash message element -->
